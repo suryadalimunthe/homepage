@@ -23,4 +23,4 @@ Penerjemah: Tim Sains Terbuka - Surya Dalimunthe, Afrilya, Dasapta Erwin Irawan,
    kekuatan_gerakan
    tantangan_gerakan
    kesempatan
-   todo
+   ancaman
