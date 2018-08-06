@@ -1,4 +1,4 @@
-Tujuan Dokumen
+1. Tujuan Dokumen
 ==============
 
 *Dokumen ini mengandung strategi penerapan pengetahuan terbuka untuk tingkat regional, nasional, dan internasional.*
