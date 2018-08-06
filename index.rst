@@ -21,6 +21,6 @@ Penerjemah: Tim Sains Terbuka - Surya Dalimunthe, Afrilya, Dasapta Erwin Irawan,
    make_tutorial/make_tutorial
    strategi_utama_pengetahuan_terbuka
    kekuatan_gerakan
-   sphinx
+   tantangan_gerakan
    quotes
    todo
