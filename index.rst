@@ -18,7 +18,6 @@ Penerjemah: Tim Sains Terbuka - Surya Dalimunthe, Afrilya, Dasapta Erwin Irawan,
    strategi
    apa_itu_pengetahuan_terbuka
    state-of-movement
-   make_tutorial/make_tutorial
    strategi_utama_pengetahuan_terbuka
    kekuatan_gerakan
    tantangan_gerakan
