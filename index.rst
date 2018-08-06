@@ -22,5 +22,5 @@ Penerjemah: Tim Sains Terbuka - Surya Dalimunthe, Afrilya, Dasapta Erwin Irawan,
    strategi_utama_pengetahuan_terbuka
    kekuatan_gerakan
    tantangan_gerakan
-   quotes
+   kesempatan
    todo
