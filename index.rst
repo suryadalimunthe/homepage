@@ -17,7 +17,7 @@ Penerjemah: Tim Sains Terbuka - Surya Dalimunthe, Afrilya, Dasapta Erwin Irawan,
    tujuan_dokumen
    strategi
    apa_itu_pengetahuan_terbuka
-   python
+   state-of-movement
    make_tutorial/make_tutorial
    latexmk
    git
