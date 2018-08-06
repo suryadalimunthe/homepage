@@ -14,7 +14,6 @@ Penerjemah: Tim Sains Terbuka - Surya Dalimunthe, Afrilya, Dasapta Erwin Irawan,
 .. toctree::
    :maxdepth: 2
 
-   reproducible_research
    open_education
    licensing
    free_audio_data
