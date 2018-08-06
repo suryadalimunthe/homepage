@@ -14,8 +14,8 @@ Penerjemah: Tim Sains Terbuka - Surya Dalimunthe, Afrilya, Dasapta Erwin Irawan,
 .. toctree::
    :maxdepth: 2
 
-   open_education
-   licensing
+   tujuan_dokumen
+   strategi
    free_audio_data
    python
    make_tutorial/make_tutorial
