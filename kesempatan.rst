@@ -1,4 +1,4 @@
- 8. Kesempatan
+8. Kesempatan
 ======
 * Universitas dan lembaga penelitian di seluruh dunia sedang membangun ikrar pengetahuan terbuka. Diskusi terjadi di mana-mana, dan universitas pada umumnya berada di posisi kuat untuk membimbing dan mengembangkan kerangka kebijakan, praktik terbaik, dan pendidikan dalam aspek-aspek pengetahuan terbuka, termasuk dukungan administrasi.
 
