@@ -20,7 +20,7 @@ Penerjemah: Tim Sains Terbuka - Surya Dalimunthe, Afrilya, Dasapta Erwin Irawan,
    state-of-movement
    make_tutorial/make_tutorial
    strategi_utama_pengetahuan_terbuka
-   git
+   kekuatan_gerakan
    sphinx
    quotes
    todo
