@@ -1,4 +1,4 @@
-Dasar-dasar Strategi Pengembangan Pengetahuan Terbuka!
+Dasar-dasar Strategi Pengembangan Pengetahuan Terbuka
 ========
 
 Versi 1.0 | 16 Oktober 2017 (dalam persiapan)
