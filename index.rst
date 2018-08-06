@@ -16,7 +16,7 @@ Penerjemah: Tim Sains Terbuka - Surya Dalimunthe, Afrilya, Dasapta Erwin Irawan,
 
    tujuan_dokumen
    strategi
-   free_audio_data
+   apa_itu_pengetahuan_terbuka
    python
    make_tutorial/make_tutorial
    latexmk
