@@ -207,7 +207,7 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 * Mengadopsi prinsip penilaian penelitian yang lebih adil seperti yang diuraikan di DORA. Pastikan bahwa mereka yang bertanggung jawab atas penilaian penelitian, termasuk pengangkatan, penguasaan, dan komisi pemberian hibah mematuhi ini.
 
-2.2 Strategi Jangka Menengah (2 - 5 tahun) <a name="Middle"></a>
+2.2 Strategi Jangka Menengah (2 - 5 tahun) 
 -----
 
 Harapan pada poin ini adalah The expectation at this point is that specific parts of the short-term strategy will have been initiated, based on the needs of respective groups, and are either in place or in development. Often, these are ongoing processes, and therefore might overlap with the mid-term strategy, and are not worth repeating here. However, all of the items mentioned in the [short-term strategy](#Short) are still relevant at this stage, depending on the pace of development.
