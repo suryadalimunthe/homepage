@@ -17,11 +17,11 @@
 
   * Penerapan pemrosesan artikel dan buku berbayar tinggi dan tidak berkelanjutan, khususnya bersifat diskriminatif terhadap demografi tertentu yang mungkin kekurangan dana;
 
-  * Kurangnya penegetahuan dalam mengatasi kesulita-kesulitan ini;
+  * Kurangnya pengetahuan dalam mengatasi kesulitan-kesulitan ini;
 
-  * Kurangnya kesadaran bahwa sekitar [70% of journals indexed in the DOAJ](https://sustainingknowledgecommons.org/2018/02/06/doaj-apc-information-as-of-jan-31-2018/) tidak ada biaya pemrosesan jurnals;
+  * Kurangnya kesadaran bahwa sekitar [70% of journals indexed in the DOAJ](https://sustainingknowledgecommons.org/2018/02/06/doaj-apc-information-as-of-jan-31-2018/) tidak ada biaya pemrosesan jurnal;
 
-  * No widely-agreed upon large-scale solution for issues regarding OA for books;
+  * Tidak ada solusi berskala besar untuk isu-isu terkait Akses Terbuka untuk buku;
 
   * Persepsi bahwa kurang berharganya jurnal Akses Terbuka; dan
 
@@ -62,7 +62,7 @@
 
   * Mengenai pracetak, ada kolonisasi dari kepentingan komersial (misalnya, Elsevier mengakuisisi SSRN). Ini mengarah pada kontrol komersial yang lebih luas, terlepas dari akhir publikasi.
 
-* **Resistance to change**:
+* **Resistesnsi terhadap perubahan**:
 
   * Peneliti umumnya resisten terhadap perubahan, seperti juga sifat manusia, dan sering didefinisikan sebagai sistem 'inersia budaya' dalam dunia akademis.
   
