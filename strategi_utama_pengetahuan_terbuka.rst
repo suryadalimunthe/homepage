@@ -185,8 +185,8 @@ Masalah transparansi dan reproduktifitas diterapkan pada pengetahuan itu sendiri
 
 Tentu saja, ada juga bahaya dengan metrik baru, karena *semua* metrik dapat disisipkan, dan metrik baru menawarkan peluang baru untuk dimainkan. Metrik baru juga tidak akan memecahkan masalah terbitkan atau hilang, tetapi hanya mentransfernya.
 
-
-## 5.6 Community and inclusion <a name="Community"></a>
+5.6 Community and inclusion
+--------------------------
 
 Dimotivasi oleh pengakuan bahwa pengetahuan membutuhkan semua suara untuk didengar, dan keterlibatan komitmen komunitas, pengetahuan terbuka berusaha untuk memastikan keragaman dan inklusi adalah prinsip utama dalam percakapan ilmiah. Faktor ini disinggung di tempat lain oleh Fecher dan Frieseke (2013), tetapi berdasarkan diskusi dan acara sejak publikasi ini, kami merasa perlu untuk menyoroti pentingnya.
 
