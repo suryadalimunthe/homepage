@@ -13,9 +13,9 @@
 
   * Pemberian hak cipta dari peneliti ke penerbit yang terus berlanjut;
 
-  * Lack of distributed article-processing charge funding;
+  * Kurangnya pendanaan biaya pemrosesan artikel yang terdistribusi;
 
-  * Wide application of high and unsustainable APCs and BPCs, which are particularly discriminatory against specific demographics who might lack appropriate funds;
+  * Penerapan pemrosesan artikel dan buku berbayar tinggi dan tidak berkelanjutan, khususnya bersifat diskriminatif terhadap demografi tertentu yang mungkin kekurangan dana;
 
   * Kurangnya penegetahuan dalam mengatasi kesulita-kesulitan ini;
 
@@ -27,14 +27,14 @@
 
   * A lack of appropriate offsetting deals around OA deals and hybrid journals.
   
-  * A general lack of high profile role models for practices in all research disciplines, strengthening cultural inertia through a lack of awareness.
+  * Kurangnya peran model dari semua disiplin penelitian, semakin melemahkan kesadaran akan Pengetahuan Terbuka.
   
  * **Rintangan dalam Berbagi Data**
   * Kurangnya niat pribadi dan kondisi lingkungan untuk (tidak) berbagi data
 
   * Kurangnya keterampilan dan kesadaran dari praktik terbaik pengetahuan terbuka;
 
-  * Lack of agreement on how Research Data Management (RDM) activities should be funded;
+  * Kurangnya pendanaan terhadap managemen data riset (RDM);
 
   * Isu lisensi dan kurangnya keadaran tentang mereka;
 
@@ -42,7 +42,7 @@
 
   * Mengabaikan hak penggunaan ulang data, sehingga orang lain melakukan penggunaan ulang yang buruk langsung dari publikasi.
 
-* **Incentives and metrics**
+* **Insentif dan Metrik**
 
   * Kurangnya insentif yang sesuai dapat menciptakan ketakutan dari mentalitas dan praktik yang tertanam secara tradisional; misalnya, berbagi data mengurangi daya saing seseorang (contoh, "orang akan menggunakan data saya di jalan yang salah," atau "saya butuh 5 publikasi lagi melalui data ini"").
 
@@ -52,7 +52,7 @@
 
   * Metrik baru harus dirancang untuk menciptakan insentif untuk mempengaruhi perilaku peneliti, lebih disukai berdasarkan keterbukaan.
   
-* **Big commercial publishers**
+* **Penerbit Besar Komersil**
 
 * Elsevier & Holtzbrinck/Springer Nature (via Digital Science) tampaknya mengembangkan layanan untuk seluruh alur kerja penelitian, dari penemuan hingga pendanaan.
 
