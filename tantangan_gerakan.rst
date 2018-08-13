@@ -15,9 +15,10 @@ Saat ini ada sedikit konsensus mengenai apakah masa depan Pengetahuan Terbuka ha
   * Mencari pengembangan model bisnis alternatif, seperti pendekatan konsorsium pada Open Library of Humanities ([Eve and Edwards, 2015](https://doi.org/10.16995/olh.46)).
 
 * **Agenda politik**
-Pengetahuan Terbuka ditandai dengan banyak definisi yang saling bersaing, paralel, dan tumpang tindih dalam prinsip dan praktik. Dengan demikian, pemerintah, lembaga pendanaan publik dan swasta, lembaga penelitian, dan entitas pendidikan terus mengembangkan beragam kebijakan untuk mengatur inisiatif PengetahuanTerbuka.
+Pengetahuan Terbuka ditandai dengan banyak definisi yang saling bersaing, paralel, dan tumpang tindih dalam prinsip dan praktik. Dengan demikian, pemerintah, lembaga pendanaan publik dan swasta, lembaga penelitian, dan entitas pendidikan terus mengembangkan beragam kebijakan untuk mengatur inisiatif Pengetahuan Terbuka.
 
 Kebijakan-kebijakan ini mencakup negara, disiplin ilmu, dan komponen dari ekosistem pengetahuan Terbuka, dan menerapkan aturan, peraturan, dan pedoman pada komunitas penelitian ilmiah melalui mekanisme termasuk kebijakan pemerintah, persyaratan pendanaan hibah, dan mandat kelembagaan
+
 * [Open Science](https://ec.europa.eu/research/openscience/index.cfm) telah menjadi prioritas utama pada agenda Uni Eropa. Fokus utamanya adalah pertumbuhan ekonomi, perkembangan dan inovasi. Aspek akademik dan sosial inti dari Pengetahuan Terbuka tampaknya kurang dibahas.
 
   * Negara lain umumnya telah mengadopsi secara perlahan kebijakan dan strategi Sains Terbuka. Namun, pada Juli 2018, Perancis meluncurkan rencana nasional Sains Terbuka [National Plan for Open Science](https://libereurope.eu/wp-content/uploads/2018/07/SO_A4_2018_05-EN_print.pdf), dan Belanda juga ada [National Plan for Open Science](https://www.openscience.nl/en/open-science-in-the-netherlands).
@@ -28,7 +29,7 @@ Kebijakan-kebijakan ini mencakup negara, disiplin ilmu, dan komponen dari ekosis
   
   * The FASTR Act, Open Government Data Act, [Federal Source Code Policy](https://sourcecode.cio.gov/); Affordable College Textbook Act; U.S. National Cancer Moonshot Initiative; Dept of Education Open Licensing Rule; Executive Directive on Public Access; California Taxpayer Access to Publicly Funded Research Act; dan Illinois Open Access to Articles Act adalah contoh kebijakan yang berubah di Amerika yang ada di bawah payung Pengetahuan Terbuka.
 
-Dari contoh-contoh ini, jelas bahwa adastrategi yang kurang konsisten pada motivasi politik untuk Pengetahuan Terbuka. Diperlukan koordinasi yang lebih dalam di bidang ini untuk secara strategis mengidentifikasi aspek Pengetahuan Terbuka  yang cocok dengan setiap hasil politik yang diinginkan.
+Dari contoh-contoh ini, jelas bahwa ada strategi yang kurang konsisten pada motivasi politik untuk Pengetahuan Terbuka. Diperlukan koordinasi yang lebih dalam di bidang ini untuk secara strategis mengidentifikasi aspek Pengetahuan Terbuka  yang cocok dengan setiap hasil politik yang diinginkan.
 
 * **Kesadaran dan keapatisan peneliti**
 
@@ -54,6 +55,7 @@ Dari contoh-contoh ini, jelas bahwa adastrategi yang kurang konsisten pada motiv
 
 * Pengetahuan Terbuka muncul dengan serangkaian istilah teknisnya sendiri. Untuk mengurangi batas keterlibatan, hindari penggunaan jargon, dan pastikan istilah yang umum digunakan didefinisikan dengan tepat.
 
+
 * **Hak Cipta**
 
 * Pengetahuan tentang Hak Cipta dan ekonomi (kepemilikan/model bisnis) sama pentingnya dengan pengetahuan teknis.
@@ -61,6 +63,7 @@ Dari contoh-contoh ini, jelas bahwa adastrategi yang kurang konsisten pada motiv
 * Meremehkan kekuatan undang-undang hak cipta, dan poin dari aspek Pengetahuan Terbuka, mungkin merupakan salah satu alasan utama mengapa gerakan terbuka belum memenuhi [beberapa tujuan prinsipnya] (https: //poynder.blogspot .com / 2017/02 / copyright-immoveable-barrier-that-open.html).
 
 * Mengatasi kesalahpahaman bahwa pengetahuan terbuka anti-komersial / menunjukkan laba atas investasi (contohnya, [Balasegaram et al., 2017](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002276); [Hakoum et al., 2017](http://bmjopen.bmj.com/content/7/10/e015997)).
+
 
 * **Melibatkan peran non akademis**
 
@@ -70,7 +73,7 @@ Dari contoh-contoh ini, jelas bahwa adastrategi yang kurang konsisten pada motiv
 
 * Keterlibatan yang lebih luas dari khalayak non-akademis, khususnya anggota masyarakat umum, penting untuk mengatasi setiap inersia politik mengenai Pengetahuan Terbuka.
 
-7.2 Kondisi Internal
+7.2 **Kondisi Internal**
 ----
 * **Tingkat Pertumbuhan**
 
@@ -79,6 +82,7 @@ Dari contoh-contoh ini, jelas bahwa adastrategi yang kurang konsisten pada motiv
     ![Figure_7: Overview: Policies by continent and region](images/Policies.png)\
     
     * Tetapi pergerakan seperti itu seringkali lambat dan terlalu rinci, dan menjadi perselisihan. Percobaan lebih lanjut harus didorong untuk menunjukkan penerapan praktik berskala lebih besar dan untuk meningkatkan laju pertumbuhan, dan dampak akhir dari pengetahuan terbuka.
+    
 
 * **Menghindari perselisihan tentang detail**
 
@@ -92,6 +96,7 @@ Dari contoh-contoh ini, jelas bahwa adastrategi yang kurang konsisten pada motiv
   * Inisiatif seperti [The 2.5% Commitment](https://intheopen.net/2017/09/join-the-movement-the-2-5-commitment/) sangat penting di masa depan. Mereka menyatakan bahwa "*Every academic library should commit to contribute 2.5% of its total budget to support the common infrastructure needed to create the open scholarly commons.*"
 
   * Ada ruang lingkup yang jelas untuk mengalihkan dana dari arus sekarang (misalnya, langganan) menjadi usaha Pengetahuan Terbuka yang lebih berkelanjutan.
+  
   
 * **Kurangnya kesabaran para pendukung pengetahuan terbuka**
 
