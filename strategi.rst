@@ -14,12 +14,15 @@ We also note that this strategy can only be based on information which we as a c
 
 **Tingkat Individu**
 
+* Miliki pola pikir tumbuh serta sadari dan libatkan diri secara aktif dalam ilmu pengetahuan. Dengan pola pikir ini, ilmu pengetahuan tidak diandaikan sebagai barang jadi (being) dan untuk dipamerkan (karena kebenarannya selalu tentatif), melainkan hal yang terus "menjadi" (becoming) dan meminta partisipasi aktif siapapun untuk mengasahnya. 
+
 * Menyarankan lembaga pendanaan, pemerintah dan lembaga penelitian untuk menyetujui kebijakan praktik pengetahuan terbuka selain akses terbuka (Open Access) dan berbagi data (data sharing); contohnya, penelaahan terbuka (open peer review), penggunaan identitas tetap, evaluasi terbuka, dan pra cetak.
 
 * Buat kontribusi yang terbuka untuk publik (contoh, CV, platform terbuka, atau situs pribadi).
 	* Buat ini dalam mengembangkan cerita praktik terbaik Pengetahuan Terbuka.
 
 * Menggunakan berbagai pendekatan penelitian ilmiah terbuka dan praktik pendidikan terbuka dengan skala yang lebih luas. Lihat [FOSTER Open Science taxonomy](https://www.fosteropenscience.eu/resources) sebagai pedoman.
+
 	* Lebih penting lagi, mulailah dengan [making your own work available open access](https://cyber.harvard.edu/hoap/How_to_make_your_own_work_open_access).
 
 * Menggunakan sumber terbuka dan perangkat lunak gratis untuk melaksanakan penelitian dan analisa sehingga proses komputerisasi dapat diperiksa oleh masyarakat dan juga agar sarana yang digunakan tersedia untuk semua orang sehingga mampu meningkatkan produktivitas. Perbedaan antara terbuka dan gratis, dapat melihat [OpenSource.com](https://opensource.com/article/17/11/open-source-or-free-software).
@@ -29,6 +32,7 @@ We also note that this strategy can only be based on information which we as a c
 * Berkomitmen dalam berbagi pracetak dalam menyebarkan karya secara terbuka dan cepat.
 
 * Menyusun dan mengembangkan praktik penggunaan ulang dalam membantu menciptakan budaya pengetahuan terbuka, dengan, antara lain:
+
 	* Mencari data yang ada sehingga kamu dapat menngunakan ulang selain menciptakan data kamu sendiri;
 	* Meninggalkan ** komentar / anotasi konstruktif ** pada pracetak / kode dll. Dengan alat terbuka seperti [hypothes.is] (https://web.hypothes.is/);
 	 * Membantu menjawab pertanyaan pada [Ask Open Science](https://ask-open-science.org/), [Stack Overflow](https://stackoverflow.com/) dan di Twitter; dan
@@ -67,11 +71,12 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 * Untuk pendidikan, tandatangani [Cape Town Open Education Declaration](http://www.capetowndeclaration.org/sign-the-declaration) dalam menunjukkan komitmen terhadap tiga strategi deklarasi sebagai bagian dari pengajaran, pembelajaran dan/atau kehidupan kerja.
 	 * Untuk yang tertarik lebih, perhatikan [Ten Directions to Move Open Education Forward](http://www.capetowndeclaration.org/cpt10/).
 
-* Menolak menandatangani perjanjian penyerahan hak cipta, kecuali kamu diizinkan menyimpan hak cipta karya kamu di bawah [Creative Commons](https://creativecommons.org/licenses).
+* Menolak menandatangani perjanjian penyerahan hak cipta, kecuali jika kamu diizinkan menyimpan hak cipta karya kamu di bawah [Creative Commons](https://creativecommons.org/licenses).
 
 **Tingkat Kelompok (laboratorium, departemen)**
 
-* Mendirikan pusat-pusat pengetahuan terbuka (tempat atau kelompok untuk berdiskusi) dan menghubungkannya untuk pengembangan komunitas. 
+* Mendirikan pusat-pusat pengetahuan terbuka (tempat atau kelompok untuk berdiskusi) dan menghubungkannya untuk pengembangan komunitas.
+
   * Jika lokal belum ada, dirikan (contohnya, menggunakan platform [Meetup](https://www.meetup.com/)).
   * Gunakan komunitas nasional/intersional ini untuk mendukung pembelajaran tingkat bawah dan berbagi pilmu pengetahuan tentang praktik Pengetahuan Terbuka, khususnya pada budaya yang beragam. 
   * Mulailah diskusi tentang perjanjian ilmu terbuka secara implisit atau eksplisit atau kode dalam membimbing departemen, laboratorium atau kelompok penelitian. Hal ini dapat dilandaskan pada yang sudah ada, seperti [Contributor Covenant](https://www.contributor-covenant.org/).
@@ -112,7 +117,7 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 * Membantu memberitahu lebih kepada peneliti tentang Help alat [Author Alliance termination of transfer](https://www.authorsalliance.org/resources/termination-of-transfer/) yang dapat membantu mereka terkait hak cipta sebagai penulis.
 
-* Pendana penelitian dapat menentukan apa-apa saja yang menjadi standar publikasi yang dapat diterima. They therefore have the power to mandate publication in journals with a cap on APCs, or in OA-only venues, or in those with short or zero-length embargoes (e.g., Emerald, The Royal Society).
+* Pendana penelitian dapat menentukan apa-apa saja yang menjadi standar publikasi yang dapat diterima. Sehingga nantinya, mereka memiliki andil kekuatan untuk menentukan penerbitan apakah di jurnal berbayar atau di jurnal dengan akses terbuka, atau pada melarang bergabung dengan jurnal seperti Emerald, The Royal Society.
 
 * Menolak terlibat dengan penerbit mahal [double dip](http://www.rluk.ac.uk/about-us/blog/the-costs-of-double-dipping/), dan meminta transfaransi data di mana hal-hal seperti ini mungkin terjadi (sebagai contoh lihat [Buranyi, 2017](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)).
 
@@ -131,6 +136,7 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 * Mendorong penginisiasian penerbit terhadap kutipan terbuka (NOTE:  Initiative for Open Citations.) (I4OC) dalam hubungannya dengan standar keterbukaan yang lebih luas.
 
 * Bagi lembaga penelitian yang saat ini kesulitan, baik mengadakan dan memelihara tempat penyimpanan akses terbuka atau mengetahui sumber yang sudah ada untuk digunakan dan mengadopsi kebijakan akses terbuka [Open Access policy](https://cyber.harvard.edu/hoap/Good_practices_for_university_open-access_policies). Buatlah agar mudah ditemukan dan dapat diakses di situs web lembaga dan pengindeks yang relevan.
+
    * Contoh kebijakan Akses Terbuka, [ROARMAP](https://roarmap.eprints.org/cgi/search/advanced)
    * Contoh Pendidikan Terbuka/ kebijakan OER, [Creative Commons OER policy registry](https://wiki.creativecommons.org/wiki/OER_Policy_Registry), atau kebijakan Uni Eropa, [Policy approaches to Open Education, 2017](https://doi.org/10.2760/283135
 
@@ -164,7 +170,7 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 * Menciptakan analisis kebijakan biaya untuk pengetahuan terbuka (contohnya, harga yang pantas dalam menerbitkan makalah) yang digunakan sebagai dasar untuk alasan biaya pajak tiap tahun.
 
-* Menerapkan teknologi penyortiran, penyaringan dan pencarian yang tersedia untuk hasil-haasil penelitian.
+* Menerapkan teknologi penyortiran, penyaringan dan pencarian yang tersedia untuk hasil-hasil penelitian.
 
 * Mengizinkan akses terhadap naskah dan data.
 
@@ -177,8 +183,9 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
     * Pengadopsian pracetak dan kebijakan akses terbuka yang lebih luas sama seperti NIH dan Wellcome Trust.
   
 * Mendorong pemberi dana penelitian untuk mempromosikan Pengetahuan Terbuka.
-	* Studi penentu dana yang menggunakan teori perubahan perilaku dalam memetakan faktor penentu dalam praktik Pengetahuan Terbuka 	yang berbeda (misalnya, mengapa beberapa peneliti secara rutin mempublikasikan pracetak sementara yang lain tidak? Apakah 	  argumen para peneliti yang menentang pembagian data menjadi alasan mengapa yang lain yang tidak membagikan data, bukan?).
-	* Studi pendanaan menggunakan teori pemangku kepentingan untuk mengeksplorasi cara-cara dalam mencapai kebijakan Pengetahuan 		Terbuka yang lebih baik pada lembaga penelitian dan pendidikan.
+
+   * Studi penentu dana yang menggunakan teori perubahan perilaku dalam memetakan faktor penentu dalam praktik Pengetahuan Terbuka 	yang berbeda (misalnya, mengapa beberapa peneliti secara rutin mempublikasikan pracetak sementara yang lain tidak? Apakah 	     argumen para peneliti yang menentang pembagian data menjadi alasan mengapa yang lain yang tidak membagikan data, bukan?).
+   * Studi pendanaan menggunakan teori pemangku kepentingan untuk mengeksplorasi cara-cara dalam mencapai kebijakan Pengetahuan Terbuka yang lebih baik pada lembaga penelitian dan pendidikan.
 
 * Mengurangi biaya pemrosesan artikel (article-processing charges - APCs) untuk akses terbuka.
 
@@ -210,11 +217,12 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 2.2 Strategi Jangka Menengah (2 - 5 tahun) 
 -----
 
-Harapan pada poin ini adalah The expectation at this point is that specific parts of the short-term strategy will have been initiated, based on the needs of respective groups, and are either in place or in development. Often, these are ongoing processes, and therefore might overlap with the mid-term strategy, and are not worth repeating here. However, all of the items mentioned in the [short-term strategy](#Short) are still relevant at this stage, depending on the pace of development.
+Harapan pada poin ini adalah bagian-bagian khusus pada strategi jangka menengah ini akan diinisiasi, berdasarkan kebutuhan kelompok baik yang ada sekarang atau yang masih dalam perkembangan. Ini adalah proses yang sedang berlangsung, dan mungkin akan tumpang tindih di sini. Namun, Semua bagian yang ada di strategi jangka pendek masih relevan pada bagian ini, tergantung pada langkah yang ditempuh.
 
 **Tingkat Individu**
 
 * Lanjutkan melatih para peneliti baru tentang praktik pengetahuan terbuka.
+
 	* Di daerah yang mungkin kurang, bangun strategi jaringan komunitas untuk meningkatkan usaha pengadvokasian. 
 	
 * Pastikan bahwa semua proses dan hasil penelitian Anda, termasuk yang lalu, secara terbuka berlisensi dan bisa digunakan ulang.
@@ -231,7 +239,7 @@ Harapan pada poin ini adalah The expectation at this point is that specific part
 
 * Menciptakan mekanisme komprehensif yang membolehkan proses penelitian terbuka kepada publik (no more piggybacking, no more "human processing units", etc.).
 
-* Develop Open Scholarship workflows for all group members to take advantage of increasingly well-developed open scholarly infrastructure and tools.
+* Mengembangkan alur kerja Pengetahuan Terbuka untuk semua anggota kelompok dalam meningkatkan pengembangan infrastruktur dan alat yang lebih baik. 
 
 * Pastikan anggota kelompok dilatih keterampilan yang relevan, termasuk perjanjian publik, kebijakan pengembangan, analisis data, pengembangan web, citizen science dan komunikasi ilmiah. 
 
@@ -243,7 +251,7 @@ Harapan pada poin ini adalah The expectation at this point is that specific part
 
 **Tingkat Lembaga**
 
-* Implement opt-out automatization of manuscript handling/single-click submission to an open repository under default open licenses.
+* Mengimplementasikan pengajuan naskah secara otomatis/dengan "sekali klik" (single click) untuk penyimpanan terbuka di bawah lisensi terbuka.  
 
     * Implement opt-out automatization of data deposition under default open licenses.
 
@@ -272,6 +280,7 @@ Harapan pada poin ini adalah The expectation at this point is that specific part
 * Memformulasi rekomendasi karir metrik untuk mendukung penerbitan data terbuka, perangkat lunak sumber terbuka dan dukungan penelitian.
 
 * Memformulasikan rekomendasi karir metrik untuk menilai usaha kandidat terhadap pembelajaran dan pengajaran pendidikan terbuka.
+
   * Pastikan kebijakan penilaian penelitian lebih adil, ketat, didukung, dan diawasi. 
 
 * For any remaining hybrid journals that attain a higher proportion of open access over subscription articles, encourage them to ‘flip’ them to pure open access with an APC that reflects the running costs of the journal.
@@ -280,15 +289,15 @@ Harapan pada poin ini adalah The expectation at this point is that specific part
 
 * Tingkatkan dana untuk minoritas yang kurang terwakili
 
-* Fund further research into determinants identified as relevant to engage in Open Scholarship.
+* Mendanai penelitian yang relevan untuk terlibat dalam Pengetahuan Terbuka.
 
-* Fund intervention development of interventions to target individuals and institutions to adopt Open Scholarship practices and policies.
+* Mendanai intervensi dalam menargetkan individu dan institusi untuk mengadopsi praktek dan kebijakan Pengetahuan Terbuka.
 
 * Mengajak kerjasama antara konsorsium perpustakaan (contoh, LIBER, EIFL) dengan konsorsium nasional, dan persatuan pendidikan yang lebih tinggi untuk menguatkan koalisi peneliti. Tambahkan kolaborasi ilmiah ini (mis., ELife, NISO) untuk lebih mengembangkan hubungan dan kolaborasi di seluruh sektor komunikasi ilmiah.
 
 * Memulai penerapan infrastruktur ilmiah di tingkat nasional atau internasional, dengan para pemegang kepentingan menyetujui standar, peta, dan struktur kepemimpinan terbuka. Pastikan hal ini didukung dengan pendanaan berkelanjutan.
 
-* Menerbitkan hasil penelitian atau investigasi ke enerbitan ilmiah nasional.
+* Menerbitkan hasil penelitian atau investigasi ke penerbitan ilmiah nasional.
 
 2.3 Strategi Jangka Panjang (5 -10 tahun) 
 -----
@@ -309,7 +318,7 @@ The expectation at this point is that specific parts of the short- and mid-term 
 
 **Tingkat Kelompok**
 
-* Continue development of and experimentation with emerging and established Open Scholarship workflows, integrating elements of newly established scholarly infrastructures.
+* Melanjutkan pengembangan dan eksperimen  alur kerja Pengetahuan Terbuka yang muncul dan berkembang dan mengintegrasikannya dengan elemen-elemen infrastruktur ilmiah yang baru didirikan.
 
 * Menyampaikan keuntungan atau dampak alur kerja pengetahuan terbuka ke kelompok lain.
 
