@@ -13,7 +13,7 @@ Mungkin, persamaan terbesar diantara pemangku kepentingan pengetahuan terbuka ad
 **Pengetahuan terbuka membuat hasil penelitian dan praktik ilmiah menjadi lebih terakses dan inklusi serta memperluas wawasan kita dalam proses penelitian ilmiah.**
 
 4.1.2 Tujuan dan Visi
-Praktik-praktik penelitian dan komunikasi ilmiah terus berkembang. Walaupun faktanya situs web mulanya didesain sekitar 30 tahun yang lalu untuk  memutuskan hirarki manajemen informasi dengan desentralisasi komunikasi ilmiah ([Berners-Lee, 1989](https://www.w3.org/History/1989/proposal.html)), penyebarluasan situs web telah the pervasive spread of the Web has left much of the pre-existing scholarly publication model and industry unchanged. 
+Praktik-praktik penelitian dan komunikasi ilmiah terus berkembang. Walaupun faktanya situs web mulanya didesain sekitar 30 tahun yang lalu untuk  memutuskan hirarki manajemen informasi dengan desentralisasi komunikasi ilmiah ([Berners-Lee, 1989](https://www.w3.org/History/1989/proposal.html)), penyebarluasan situs web telah meninggalkan model dan industri penerbitan yang belum ada sebelumnya. 
 
 Such a perceived slow rate of change or inertia can possibly be attributed to the wide range of diverse stakeholders engaged in this domain, and the deep entrenchment of interests and positions. As such, one common perspective is that scholarly communication processes need to increasingly embrace the power of Web-native technologies. Alignment of this ideal with the process of research itself is what is broadly agreed on as Open Scholarship, and there has been an undeniable explosion in the rate of innovation in scholarly communication in this in the last 30 years. The primary vision here, and one which we are optimistic of achieving, is that educational resources and research outputs, as a global societal common good should be accessible free of charge to all publics who wish to benefit from them, and integrated into wider society.
 
@@ -49,13 +49,13 @@ Empat elemen utama sebagai prasyarat pengadopsian pengetahuan terbuka:
 
 ![image alt text](image_4.png)
 
-Diadaptasi dari [Foster Open Scholarship Taxonomy](https://www.fosteropenscience.eu/taxonomy/term/102) (CC BY 4.0). Please note that this is a non-exhaustive taxonomy of all possible aspects of ‘Open Science’.
+Diadaptasi dari [Foster Open Scholarship Taxonomy](https://www.fosteropenscience.eu/taxonomy/term/102) (CC BY 4.0). Harap perhatikan bahwa ini adalah taksonomi yang tidak tuntas dari semua aspek dari ‘Pengetahuan Terbuka’.
 
 4.2 Variasi Perspektif
 ---------------------
-Selain kesamaan ini, ketegangan juga muncul dalam  mengadopsi praktik pengetahuan terbuka. Pengetahuan terbuka adalah agenda berbagai pemangku kepentingan, yang beragam budaya, latar belakang dan kepentingannya sehingga solusi satu untuk semua dapat berpotensi merugikan kepentingan lokal (atau sebaliknya). On the other hand, there is a need to ensure that strategies are joined-up so that the actions of those with similar aims are not working at cross-purposes. Such "fault-lines" for the creation of a cohesive strategy are:
+Selain kesamaan ini, ketegangan juga muncul dalam  mengadopsi praktik pengetahuan terbuka. Pengetahuan terbuka adalah agenda berbagai pemangku kepentingan, yang beragam budaya, latar belakang dan kepentingannya sehingga solusi satu untuk semua dapat berpotensi merugikan kepentingan lokal (atau sebaliknya). Di sisi lain, ada kebutuhan untuk memastikan bahwa strategi digabungkan sehingga tindakan mereka yang memiliki tujuan serupa dengan tujuan silang. Seperti "garis-kesalahan" untuk penciptaan strategi yang kohesif:
 
-4.2.1 Geographic specificities
+4.2.1 Kekhususan Geografi
 
 * Ratusan inisiatif baik dari individu dan organisasi (http://oad.simmons.edu/oadwiki/Advocacy_organizations_for_OA) muncul untuk membantu mempromosikan akses terbuka (Open Access) pada tingkat berbeda-beda di seluruh dunia.
 
@@ -67,7 +67,7 @@ Selain kesamaan ini, ketegangan juga muncul dalam  mengadopsi praktik pengetahua
 
 * Untuk memastikan bahwa setiap narasi Sains Terbuka mengintegrasikan beragam pandangan dunia, pengalaman, dan tantangan di Amerika Latin, Asia, Afrika, dan Timur Tengah, sebagaimana diuraikan dalam [Open and Collaborative Science Manifesto](https://ocsdnet.org/manifesto/open-science-manifesto/).
 
-4.2.2 Disciplinary specificities
+4.2.2 kekhususan Disipliner
 
 * Seperti istilahnya ‘Ilmu Terbuka (Open Science)’ mengandung kata ‘Ilmu’, hal ini dapat berdampak buruk  kepada peneliti dari bidang seni dan humaniora. Masalah ini tampaknya hanya terbatas pada penutur asli bahasa Inggris. Istilah lain seperti ‘e-Research’ dan ‘Digital Humanities’ menggambarkan praktik serupa di berbagai komunitas.
 
