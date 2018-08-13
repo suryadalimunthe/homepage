@@ -1,17 +1,17 @@
 9. Ancaman 
 ====
-* **Barriers to Open Access adoption**
-  * Lack of research into personal determinants and environmental conditions of (not) publishing Open Access
+* **Rintangan dalam menerapkan Akses Terbuka**
+  * Kurangnya niat pribadi dan kondisi lingkungan untuk (tidak) menerbitkan pada jurnal Akses Terbuka;
 
   * Periode yang panjang untuk melindungi penerbit besar;
 
   * Kompleks, membingungkan, dan sulit untuk menavigasikan periode pelarangan;
 
-  * Time-consuming and expensive embargo compliance reconciliation systems;
+  * Penyesuaian sistem yang mahal dan memakan waktu lama;
 
   * Konflik antara kebijakan pendana dan penerbit;
 
-  * Continued transferral of copyright from researchers to publishers;
+  * Pemberian hak cipta dari peneliti ke penerbit yang terus berlanjut;
 
   * Lack of distributed article-processing charge funding;
 
@@ -29,8 +29,8 @@
   
   * A general lack of high profile role models for practices in all research disciplines, strengthening cultural inertia through a lack of awareness.
   
- * **Barriers to data sharing**
-  * Lack of research into personal determinants and environmental conditions of (not) sharing data
+ * **Rintangan dalam Berbagi Data**
+  * Kurangnya niat pribadi dan kondisi lingkungan untuk (tidak) berbagi data
 
   * Kurangnya keterampilan dan kesadaran dari praktik terbaik pengetahuan terbuka;
 
