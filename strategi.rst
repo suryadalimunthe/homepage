@@ -19,6 +19,7 @@ We also note that this strategy can only be based on information which we as a c
 * Menyarankan lembaga pendanaan, pemerintah dan lembaga penelitian untuk menyetujui kebijakan praktik pengetahuan terbuka selain akses terbuka (Open Access) dan berbagi data (data sharing); contohnya, penelaahan terbuka (open peer review), penggunaan identitas tetap, evaluasi terbuka, dan pra cetak.
 
 * Buat kontribusi yang terbuka untuk publik (contoh, CV, platform terbuka, atau situs pribadi).
+
 	* Buat ini dalam mengembangkan cerita praktik terbaik Pengetahuan Terbuka.
 
 * Menggunakan berbagai pendekatan penelitian ilmiah terbuka dan praktik pendidikan terbuka dengan skala yang lebih luas. Lihat [FOSTER Open Science taxonomy](https://www.fosteropenscience.eu/resources) sebagai pedoman.
@@ -66,6 +67,7 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 * Mendorong penerapan 'pola pikir terbuka' yang menekankan pentingnya proses penelitian terhadap hasilnya. 
 
 * Tanda tangani Deklarasi San Francisco Declaration on Research Assessment (DORA) (NOTE:  DORA.) sebagai bentuk komitmen dalam meningkatkan penilaian penelitian.
+
 	* Sebagai alternatif, gunakan [Leiden Manifesto](http://www.leidenmanifesto.org/).
 
 * Untuk pendidikan, tandatangani [Cape Town Open Education Declaration](http://www.capetowndeclaration.org/sign-the-declaration) dalam menunjukkan komitmen terhadap tiga strategi deklarasi sebagai bagian dari pengajaran, pembelajaran dan/atau kehidupan kerja.
