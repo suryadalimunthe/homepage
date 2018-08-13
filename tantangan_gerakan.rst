@@ -67,7 +67,7 @@ Dari contoh-contoh ini, jelas bahwa ada strategi yang kurang konsisten pada moti
 
 * **Melibatkan peran non akademis**
 
-* Adopsi pengetahuan terbuka di tingkat kebijakan oleh pemerintah nasional dan regional (sama seperti cara data terbuka yang diadopsi pemerintah)
+* Adopsi pengetahuan terbuka di tingkat kebijakan oleh pemerintah nasional dan regional (sama seperti cara data terbuka yang diadopsi pemerintah).
 
 * Penelitian adalah upaya yang sangat kompetitif di seluruh dunia. Karena banyaknya praktik baru tentang pengetahuan terbuka, dapat dipahami bahwa lembaga tidak ingin mempertaruhkan reputasi mereka dalam permainan global dengan mengadopsi proses operasional baru.
 
