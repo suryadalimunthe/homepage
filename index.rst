@@ -23,4 +23,3 @@ Penerjemah: Tim Sains Terbuka - Surya Dalimunthe, Afrilya, Dasapta Erwin Irawan,
    tantangan_gerakan
    kesempatan
    ancaman
-   jon_tennant
