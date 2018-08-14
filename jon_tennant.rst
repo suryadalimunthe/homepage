@@ -1,11 +1,3 @@
-The State of The Art in Peer Review                                     
-                                                                     
-                                                                     
-                                             
-.. contents::
-   :depth: 3
-..
-
 **The State of The Art in Peer Review**
 
 Jonathan P. Tennant\*
