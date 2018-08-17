@@ -39,7 +39,7 @@ Komite Penulis: `Jonathan Tennant`_, Jonathan Dugan, Rachel Harding, Tony Ross-H
    tujuan_dokumen
    strategi
    apa_itu_pengetahuan_terbuka
-   state-of-movement
+   perkembangan_terkini
    strategi_utama_pengetahuan_terbuka
    kekuatan_gerakan
    tantangan_gerakan
