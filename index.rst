@@ -1,8 +1,8 @@
-Dasar-dasar Strategi Pengembangan Pengetahuan Terbuka
+Strategi Pengembangan Sains/Pengetahuan Terbuka
 ========
 
-Versi 1.0 | 16 Oktober 2017 (dalam persiapan)
-Versi 1.0 | Juli 2018 (terjemahan)
+Penerjemah dan Penyunting: Surya Dalimunthe, Afrilya 
+Penyunting: Juneman Abraham
 
 Komite Penulis: `Jonathan Tennant`_, Jonathan Dugan, Rachel Harding, Tony Ross-Hellauer, `Kshitiz Khanal`_, `Thomas Pasquier`_, Jeroen Bosman, `Asura Enkhbayar`_, Gail Clement, `David Eccles`_, `Fiona Bradley`_, `Björn Brembs`_, Pawel Szczesny, Lisa Matthias, `Jesper Nørgaard Kjær`_, `Daniel S. Katz`_, `Tom Crick`_, `Christopher R. Madan`_, `Paul Macklin`_, `Johanna Havemann`_, `Jennifer E. Beamer`_, Dan Sholler, Paola Masuzzo, `Michael Schulte-Mecklenbeck`_, `Tobias Steiner`_, `Tim Koder`_, `David Nichols`_, `Daniel Graziotin`_, Alastair Dunning, `Andy Turner`_, `Neo Christopher Chung`_  
 
@@ -27,11 +27,6 @@ Komite Penulis: `Jonathan Tennant`_, Jonathan Dugan, Rachel Harding, Tony Ross-H
 .. _Daniel Graziotin: https://orcid.org/0000-0002-9107-7681
 .. _Andy Turner: http://orcid.org/0000-0002-6098-6313
 .. _Neo Christopher Chung: https://orcid.org/0000-0001-6798-8867
-
-Penerjemah: Tim Sains Terbuka - Surya Dalimunthe, Afrilya, Dasapta Erwin Irawan, Juneman Abraham, Sami Kandha Dipura 
-
-[Hubungi Perwakilan Penulis](mailto:jon.tennant.2@gmail.com)
-[Hubungi Perwakilan Penerjemah](mailto:surya@alumni.nus.edu.sg)
 
 .. toctree::
    :maxdepth: 2
