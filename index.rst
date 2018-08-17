@@ -4,7 +4,7 @@ Dasar-dasar Strategi Pengembangan Pengetahuan Terbuka
 Versi 1.0 | 16 Oktober 2017 (dalam persiapan)
 Versi 1.0 | Juli 2018 (terjemahan)
 
-Komite Penulis: `Jonathan Tennant`_, Jonathan Dugan, Rachel Harding, Tony Ross-Hellauer, `Kshitiz Khanal`_, `Thomas Pasquier`_, Jeroen Bosman, `Asura Enkhbayar`_, Gail Clement, `David Eccles`_, `Fiona Bradley`_, `Björn Brembs`_, Pawel Szczesny, Lisa Matthias,`Jesper Nørgaard Kjær`_, `Daniel S. Katz`_, `Tom Crick`_, `Christopher R. Madan`_, `Paul Macklin`_, `Johanna Havemann`_, `Jennifer E. Beamer`_, Dan Sholler, Paola Masuzzo, `Michael Schulte-Mecklenbeck`_, `Tobias Steiner`_, `Tim Koder`_, `David Nichols`_, `Daniel Graziotin`_, Alastair Dunning, `Andy Turner`_, `Neo Christopher Chung`_  
+Komite Penulis: `Jonathan Tennant`_, Jonathan Dugan, Rachel Harding, Tony Ross-Hellauer, `Kshitiz Khanal`_, `Thomas Pasquier`_, Jeroen Bosman, `Asura Enkhbayar`_, Gail Clement, `David Eccles`_, `Fiona Bradley`_, `Björn Brembs`_, Pawel Szczesny, Lisa Matthias, `Jesper Nørgaard Kjær`_, `Daniel S. Katz`_, `Tom Crick`_, `Christopher R. Madan`_, `Paul Macklin`_, `Johanna Havemann`_, `Jennifer E. Beamer`_, Dan Sholler, Paola Masuzzo, `Michael Schulte-Mecklenbeck`_, `Tobias Steiner`_, `Tim Koder`_, `David Nichols`_, `Daniel Graziotin`_, Alastair Dunning, `Andy Turner`_, `Neo Christopher Chung`_  
 
 .. _Jonathan Tennant: https://orcid.org/0000-0001-7794-0218 
 .. _Kshitiz Khanal: https://orcid.org/0000-0002-4765-4832
