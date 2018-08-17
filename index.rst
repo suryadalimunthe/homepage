@@ -2,6 +2,7 @@ Strategi Pengembangan Sains/Pengetahuan Terbuka
 ========
 
 Penerjemah dan Penyunting: `Surya Dalimunthe`_, `Afrilya`_
+
 Penyunting: `Juneman Abraham`_
 
 .. _Surya Dalimunthe: https://sites.google.com/site/tamanbahasa 
