@@ -1,4 +1,4 @@
-Files for my "homepage" on rtfd.io
+Situs Perdana Strategi Sains/Pengetahuan Terbuka
 ==================================
 
-Have a look there: http://mg.rtfd.io/
+http://sainsterbuka.rtfd.io/
