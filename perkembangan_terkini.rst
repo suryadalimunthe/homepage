@@ -1,4 +1,4 @@
-4. State of the Movement
+4. Perkembangan terkini
 ========================
 
 Gerakan/ [movement](https://www.google.de/search?q=Dictionary#dobs=movement) dapat didefinisikan sebagai "a group of people working together to advance their shared political, social, or artistic ideas." Pendukung pengetahuan terbuka sangat beraneka ragam, termasuk masyarakat biasa, aktivis, staf pengajar, dan siswa di berbagai tingkat akademis dan karir serta lembaga penelitian, penerbit, pustakawan, pembuat kebijakan, dan LSM. Para anggota komunitas ini berasal dari berbagai negara dan latar belakang sosial ekonomi dan budaya. Walaupun demikian, perbedaan tersebut adalah kekuatan untuk gerakan pengetahuan terbuka dengan perspektif, pengalaman, kapasitas dan sumber daya yang beragam, dan juga menghadirka tantangan untuk  perencanaan strategis. 
