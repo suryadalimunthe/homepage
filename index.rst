@@ -1,15 +1,15 @@
 Strategi Pengembangan Sains/Pengetahuan Terbuka
 ========
 
-Penerjemah dan Penyunting: `Surya Dalimunthe`_, `Afrilya`_
-
-Penyunting: `Juneman Abraham`_
+Komite Indonesia: `Surya Dalimunthe`_, `Afrilya`_, `Juneman Abraham`_, `Dasapta Erwin Irawan`_, `Sami Kandha Dipura`_ 
 
 .. _Surya Dalimunthe: https://sites.google.com/site/tamanbahasa 
 .. _Juneman Abraham: http://psychology.binus.ac.id/D3728
 .. _Afrilya: www.afrilya.com
+.. _Dasapta Erwin Irawan: http://dasaptaerwin.net/wp/
+.. _Sami Kandha Dipura: https://scholar.google.co.id/citations?user=-ug02sIAAAAJ&hl=id 
 
-Komite Penulis: `Jonathan Tennant`_, Jonathan Dugan, Rachel Harding, Tony Ross-Hellauer, `Kshitiz Khanal`_, `Thomas Pasquier`_, Jeroen Bosman, `Asura Enkhbayar`_, Gail Clement, `David Eccles`_, `Fiona Bradley`_, `Björn Brembs`_, Pawel Szczesny, Lisa Matthias, `Jesper Nørgaard Kjær`_, `Daniel S. Katz`_, `Tom Crick`_, `Christopher R. Madan`_, `Paul Macklin`_, `Johanna Havemann`_, `Jennifer E. Beamer`_, Dan Sholler, Paola Masuzzo, `Michael Schulte-Mecklenbeck`_, `Tobias Steiner`_, `Tim Koder`_, `David Nichols`_, `Daniel Graziotin`_, Alastair Dunning, `Andy Turner`_, `Neo Christopher Chung`_  
+Komite Internasional: `Jonathan Tennant`_, Jonathan Dugan, Rachel Harding, Tony Ross-Hellauer, `Kshitiz Khanal`_, `Thomas Pasquier`_, Jeroen Bosman, `Asura Enkhbayar`_, Gail Clement, `David Eccles`_, `Fiona Bradley`_, `Björn Brembs`_, Pawel Szczesny, Lisa Matthias, `Jesper Nørgaard Kjær`_, `Daniel S. Katz`_, `Tom Crick`_, `Christopher R. Madan`_, `Paul Macklin`_, `Johanna Havemann`_, `Jennifer E. Beamer`_, Dan Sholler, Paola Masuzzo, `Michael Schulte-Mecklenbeck`_, `Tobias Steiner`_, `Tim Koder`_, `David Nichols`_, `Daniel Graziotin`_, Alastair Dunning, `Andy Turner`_, `Neo Christopher Chung`_  
 
 .. _Jonathan Tennant: https://orcid.org/0000-0001-7794-0218 
 .. _Kshitiz Khanal: https://orcid.org/0000-0002-4765-4832
